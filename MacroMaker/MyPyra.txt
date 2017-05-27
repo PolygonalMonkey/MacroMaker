@@ -1,0 +1,2 @@
+CreatePolygonPyramid;
+polyPyramid -w 1 -ns 4 -sh 1 -sc 0 -ax 0 1 0 -cuv 3 -ch 1;

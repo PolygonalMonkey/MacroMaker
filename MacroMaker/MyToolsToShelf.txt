@@ -1,0 +1,8 @@
+menuItemToShelf "MayaWindow|mainWindowMenu|menuItem1016";
+menuItemToShelf "MayaWindow|mainWindowMenu|menuItem1009|menuItem1089";
+menuItemToShelf "MayaWindow|mainWindowMenu|menuItem1012|menuItem1347";
+menuItemToShelf "MayaWindow|mainWindowMenu|menuItem1017";
+menuItemToShelf "MayaWindow|mainModifyMenu|identityApplyItem";
+menuItemToShelf "MayaWindow|mainModifyMenu|identityResetItem";
+menuItemToShelf "MayaWindow|mainModifyMenu|centrePivotItem";
+menuItemToShelf "MayaWindow|mainEditMenu|clearActiveItem|clearConstHistoryTypesItem";
