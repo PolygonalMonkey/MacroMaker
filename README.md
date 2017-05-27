@@ -1,2 +1,2 @@
 # MacroMaker
-Maya Macro Maker script
+GitRepo containing code projects from PolygonalMonkey Github Pages site.
